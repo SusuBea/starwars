@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Dashboard from './pages/Dashboard';
 
 function App() {
   return (
@@ -7,6 +8,9 @@ function App() {
       <header className="App-header">
       <h1>Star Wars</h1>
       </header>
+      <main>
+        <Dashboard />
+      </main>
     </div>
   );
 }
