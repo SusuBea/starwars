@@ -1,1 +1,1 @@
-![main page](src\pictures\mainPage.png)
+![main page](C:\Users\Suhajda Bea\Desktop\starwars\src\pictures\mainPage.png)
