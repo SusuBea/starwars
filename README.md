@@ -1,1 +1,1 @@
-![main page](starwars/src/pictures/mainPage.png)
+![main page](mainPage.png)
