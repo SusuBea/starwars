@@ -1,1 +1,1 @@
-![alt text](mainPage.png)
+![main page](src\pictures\mainPage.png)
